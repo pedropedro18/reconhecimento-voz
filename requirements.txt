@@ -1,0 +1,4 @@
+streamit
+gTTS
+deep-translator
+google-genai
