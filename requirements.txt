@@ -1,4 +1,4 @@
-streamit
+streamlit
 gTTS
 deep-translator
 google-genai
